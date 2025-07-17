@@ -34,10 +34,12 @@ Links to free tools, assets, and inspiration across design and development
 ### Website Galleries
 
 - [Minimal Gallery](https://minimal.gallery) - Explore functional and visually stunning websites
+- [Godly](https://godly.website) - Astronomically good web design inspiration. Only the best of the best.
 
 ### UI Components
 
 - [Uiverse](https://uiverse.io) - The Largest Library of Open-Source UI
+- [UI Ball](https://uiball.com) - Free, open-source loading animations
 
 ### Navigation Design
 
@@ -68,6 +70,7 @@ Links to free tools, assets, and inspiration across design and development
 
 - [Iconify](https://iconify.design) - Icons, can be imported as react, svg, png etc
 - [SVG Repo](https://www.svgrepo.com) - 500.000+ Open-licensed SVG Vector and Icons
+- [Isocons](https://www.isocons.app) - Isometric icons
 
 ---
 
