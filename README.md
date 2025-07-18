@@ -40,6 +40,8 @@ Links to free tools, assets, and inspiration across design and development
 
 - [Uiverse](https://uiverse.io) - The Largest Library of Open-Source UI
 - [UI Ball](https://uiball.com) - Free, open-source loading animations
+- [Headless UI](https://headlessui.com) - Unstyled, accessible UI components for React/Vue
+- [Ant Design](https://ant.design) - Enterprise-class UI design language and React components
 
 ### Navigation Design
 
@@ -71,6 +73,7 @@ Links to free tools, assets, and inspiration across design and development
 - [Iconify](https://iconify.design) - Icons, can be imported as react, svg, png etc
 - [SVG Repo](https://www.svgrepo.com) - 500.000+ Open-licensed SVG Vector and Icons
 - [Isocons](https://www.isocons.app) - Isometric icons
+- [Iconoir](https://iconoir.com) - Simple and definitive open-source icons library
 
 ---
 
@@ -93,6 +96,8 @@ Links to free tools, assets, and inspiration across design and development
 ### Free Assets
 
 - [Resource Boy](https://resourceboy.com) - Your Ultimate Source for Free Design Resources, there is fonts, textures, text effects, mockups etc
+- [unDraw](https://undraw.co) - Open-source illustrations with customizable colors
+- [Poly Pizza](https://poly.pizza) - Free low poly 3D assets
 
 ### Premium Assets
 
